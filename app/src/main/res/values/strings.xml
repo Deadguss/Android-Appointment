@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="admın_log_n">Admın Logın</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="timeframe">
+        <item>Select time you are available</item>
+        <item>7-9 AM</item>
+        <item>9-11 AM</item>
+        <item>11-1 AM</item>
+        <item>2-4 AM</item>
+        <item>4-6 AM</item>
+    </string-array>
+
+    <string-array name="departments">
+        <item>Select Depertment</item>
+        <item>Dentistry</item>
+        <item>Surgery</item>
+    </string-array>
+    <string-array name="Specialization">
+        <item>Select Specialization</item>
+        <item>General</item>
+        <item>Periodontist</item>
+    </string-array>
+</resources>
